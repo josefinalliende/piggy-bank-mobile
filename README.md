@@ -9,5 +9,8 @@ A mobile app to manage personal finances 💰
 - Yarn 
 - Typescript
 
+#### And more ...
+- react-i18next: https://github.com/i18next/react-i18next
+
 ### Commands
 - `yarn tsc`  :   typechecks the project
