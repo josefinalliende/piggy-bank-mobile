@@ -1,14 +1,13 @@
-import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import { useTranslation } from 'react-i18next'
 import './localization/i18n';
+import Welcome from './components/welcome';
 
 export default function App() {
   const { t } = useTranslation()
   return (
     <View style={styles.container}>
-      <Text>🐷 {t('App.title')}</Text>
-      <StatusBar style="auto" />
+      <Welcome t={t} />
     </View>
   );
 }
