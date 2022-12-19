@@ -10,7 +10,11 @@ A mobile app to manage personal finances 💰
 - Typescript
 
 #### And more ...
-- react-i18next: https://github.com/i18next/react-i18next
+- [react-i18next](https://github.com/i18next/react-i18next)
+- [jest](https://jestjs.io/)
+- [react-native-testing-library](https://callstack.github.io/react-native-testing-library/)
 
 ### Commands
+- `yarn start`:   starts metro server
 - `yarn tsc`  :   typechecks the project
+- `yarn test` :   runs tests
