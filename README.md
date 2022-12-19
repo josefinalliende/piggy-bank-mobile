@@ -13,6 +13,7 @@ A mobile app to manage personal finances 💰
 - [react-i18next](https://github.com/i18next/react-i18next)
 - [jest](https://jestjs.io/)
 - [react-native-testing-library](https://callstack.github.io/react-native-testing-library/)
+- [nativewind](https://www.nativewind.dev)
 
 ### Commands
 - `yarn start`:   starts metro server
